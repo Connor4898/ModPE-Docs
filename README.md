@@ -1,4 +1,4 @@
 ModPE-Docs
 ==========
 
-A documentation of ModPE. Under development!
+Everything is on the Wiki! Go to the Wiki!
